@@ -1,7 +1,7 @@
 ﻿// Program 3
 // CIS 199-01
 // Due: 11/09/2017
-// By: A9371
+
 
 // This application calculates the earliest registration date
 // and time for an undergraduate student given their class standing
